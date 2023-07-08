@@ -1,0 +1,19 @@
+console_pack my_console_pack {
+    console {
+        storage:1024 GB,
+        display {
+            diagonal: 30 inch,
+            type: LCD,
+            resolution: 4K
+        }
+    },
+    controller {
+        colour: blue
+    },
+    controller {
+        colour: black
+    },
+    game {
+        name: Link's Resolution
+    }
+}
